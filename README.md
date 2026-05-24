@@ -14,5 +14,5 @@ KinFai的Agent笔记
 └── README.md               
 ```
 
-## [Rules](kinfai_agent_note/rules/README)
+## [Rules](rules/README)
 一些针对 Agent 工作时的行为约束。
