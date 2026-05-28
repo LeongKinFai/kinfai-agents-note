@@ -16,3 +16,6 @@ KinFai的Agent笔记
 
 ## [Rules](rules/README)
 一些针对 Agent 工作时的行为约束。
+
+## [Skills](Skills/README)
+一些在日常开发中用到的技能。

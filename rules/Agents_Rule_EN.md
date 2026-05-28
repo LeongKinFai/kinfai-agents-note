@@ -51,4 +51,6 @@ For multi-step tasks, state a brief plan:
 2. [Step] → verify: [check]
 3. [Step] → verify: [check]
 ```
-### 5. 
+### 5. 语言要求
+**必须用中文输出内容**
+- 专业名词必须用英文表示并配上中文翻译。
