@@ -14,8 +14,8 @@ KinFai的Agent笔记
 └── README.md               
 ```
 
-## [Rules](rules/README)
+## [Rules](rules/README.md)
 一些针对 Agent 工作时的行为约束。
 
-## [Skills](Skills/README)
+## [Skills](Skills/README.md)
 一些在日常开发中用到的技能。
